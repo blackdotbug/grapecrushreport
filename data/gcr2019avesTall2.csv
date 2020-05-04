@@ -1,0 +1,904 @@
+district,variety,wt_ave_base,tons,type,brixfactor,revenue
+dist01,Other Raisin  b/ ,2000.0,4.3,Raisin,100.0,8000
+dist01,Albarino ,2400.0,1.6,White Wine,10700.0,2400
+dist01,Arneis ,1908.2,30.5,White Wine,9450.0,57240
+dist01,Chardonnay * ,1327.84,15402.5,White Wine,8224.535353535353,20438454
+dist01,Chenin Blanc ,1723.96,130.7,White Wine,4466.785714285715,223990
+dist01,Cortese ,2000.0,9.3,White Wine,100.0,18000
+dist01,French Colombard ,1232.48,122.9,White Wine,4985.625,150304
+dist01,Gewurztraminer ,2154.79,202.0,White Wine,4150.0,435108
+dist01,Grenache Blanc ,1900.0,1.0,White Wine,100.0,1900
+dist01,Grenache Gris ,3000.0,10.9,White Wine,5700.0,30000
+dist01,Gruner Veltliner ,2080.65,3.1,White Wine,8550.0,6240
+dist01,Marsanne ,2782.61,13.8,White Wine,100.0,36166
+dist01,Muscat Blanc * ,1000.64,90.4,White Wine,3957.1428571428573,90000
+dist01,Muscat Orange ,1859.75,17.1,White Wine,16300.0,31603
+dist01,Picpoul Blanc ,4000.0,0.9,White Wine,100.0,0
+dist01,Pinot Blanc ,1477.11,42.7,White Wine,9480.0,62034
+dist01,Pinot Gris * ,1637.35,244.5,White Wine,1553.3333333333333,399428
+dist01,Roussanne ,2107.43,41.2,White Wine,100.0,86387
+dist01,Sauvignon Blanc ,1392.56,2669.9,White Wine,6549.8125,3715248
+dist01,Sauvignon Musque ,1600.0,91.7,White Wine,100.0,145600
+dist01,Semillon ,1695.39,65.1,White Wine,3444.4444444444443,110175
+dist01,Tocai Friulano ,1490.74,27.0,White Wine,100.0,40230
+dist01,Viognier ,1409.51,225.5,White Wine,10345.0,317025
+dist01,White Riesling * ,2459.83,120.8,White Wine,5300.0,295080
+dist01,Other White  b/ ,3000.0,3.3,White Wine,100.0,9000
+dist01,Barbera ,1830.75,88.6,Red Wine,3870.0,161040
+dist01,Cabernet Franc ,3168.59,19.1,Red Wine,5200.0,60192
+dist01,Cabernet Sauvignon ,1989.79,6480.5,Red Wine,11309.929411764706,12888720
+dist01,Carignane ,1412.49,852.8,Red Wine,7502.0,1203024
+dist01,Carmenere ,2200.0,2.3,Red Wine,8650.0,4400
+dist01,Charbono ,1833.98,25.9,Red Wine,9047.0,45825
+dist01,Cinsaut * ,4225.0,4.2,Red Wine,100.0,16900
+dist01,Counoise ,3982.76,2.9,Red Wine,100.0,7964
+dist01,Dolcetto ,1778.45,86.7,Red Wine,6466.666666666667,152908
+dist01,Gamay (Napa) * ,1675.5,65.3,Red Wine,1566.8181818181818,108875
+dist01,Grenache * ,2154.64,435.1,Red Wine,10685.365853658537,936990
+dist01,Malbec ,1842.31,70.9,Red Wine,8500.0,128940
+dist01,Merlot ,1340.63,2546.3,Red Wine,6674.523809523809,3411640
+dist01,Montepulciano ,2100.0,3.8,Red Wine,3467.5,6300
+dist01,Mourvedre * ,4148.58,17.6,Red Wine,100.0,70516
+dist01,Nebbiolo ,2378.49,18.6,Red Wine,12200.0,42804
+dist01,Negroamaro ,1800.0,4.2,Red Wine,100.0,7200
+dist01,Nero D'Avola * ,2100.0,6.9,Red Wine,100.0,12600
+dist01,Petit Verdot ,1908.03,43.5,Red Wine,12580.0,82044
+dist01,Petite Sirah ,1872.21,1273.8,Red Wine,12230.407407407407,2383056
+dist01,Pinot Noir ,3141.2,3178.4,Red Wine,5263.532110091744,9982098
+dist01,Pinotage ,1507.02,18.7,Red Wine,100.0,27126
+dist01,Primitivo ,1618.97,63.9,Red Wine,3560.0,101934
+dist01,Sangiovese * ,1929.92,193.2,Red Wine,5707.142857142857,372297
+dist01,Syrah * ,1649.41,1224.3,Red Wine,8850.0,2018376
+dist01,Tannat ,3789.37,9.5,Red Wine,100.0,34101
+dist01,Tempranillo * ,1824.14,5.8,Red Wine,9450.0,9120
+dist01,Tinta Cao ,1400.0,1.1,Red Wine,100.0,1400
+dist01,Touriga Nacional * ,1400.0,14.1,Red Wine,100.0,19600
+dist01,Trousseau * ,2337.21,4.3,Red Wine,100.0,9348
+dist01,Zinfandel ,1737.41,3725.2,Red Wine,11231.035714285714,6470325
+dist01,Other Red  b/ ,2097.23,44.6,Red Wine,1642.857142857143,92268
+dist02,Chardonnay * ,1309.06,1193.8,White Wine,10875.8,1561637
+dist02,Gewurztraminer ,1623.15,82.6,White Wine,100.0,133086
+dist02,Grenache Blanc ,2000.0,1.1,White Wine,100.0,2000
+dist02,Muscat Blanc * ,1256.85,210.5,White Wine,11079.09090909091,263760
+dist02,Muscat Orange ,1550.0,15.0,White Wine,20800.0,23250
+dist02,Picpoul Blanc ,1300.0,0.6,White Wine,100.0,0
+dist02,Pinot Blanc ,4000.0,1.1,White Wine,17800.0,4000
+dist02,Pinot Gris * ,1290.46,79.7,White Wine,10450.0,101910
+dist02,Roussanne ,1568.3,45.1,White Wine,8333.333333333334,70560
+dist02,Sauvignon Blanc ,1247.27,12373.4,White Wine,9161.085714285715,15429131
+dist02,Sauvignon Musque ,1303.68,152.3,White Wine,14700.0,198056
+dist02,Semillon ,1270.2,123.5,White Wine,4980.0,156210
+dist02,Vermentino * ,1800.0,4.2,White Wine,100.0,7200
+dist02,Viognier ,1373.34,67.6,White Wine,7066.666666666667,91991
+dist02,White Riesling * ,1396.11,46.3,White Wine,100.0,64216
+dist02,Aglianico ,1100.0,0.5,Red Wine,100.0,0
+dist02,Barbera ,1550.81,92.3,Red Wine,13125.0,142600
+dist02,Cabernet Franc ,2037.3,281.9,Red Wine,17805.76923076923,572397
+dist02,Cabernet Sauvignon ,2333.23,13915.2,Red Wine,10823.655913978495,32463695
+dist02,Charbono ,1319.15,4.7,Red Wine,8550.0,5276
+dist02,Dolcetto ,1500.0,1.3,Red Wine,17800.0,1500
+dist02,Grenache * ,1729.87,104.5,Red Wine,5812.5,179816
+dist02,Malbec ,1792.38,753.2,Red Wine,12061.0,1349376
+dist02,Merlot ,1308.34,885.1,Red Wine,12426.85,1157580
+dist02,Montepulciano ,1347.06,8.5,Red Wine,100.0,10776
+dist02,Mourvedre * ,1881.99,64.4,Red Wine,100.0,120384
+dist02,Nero D'Avola * ,3000.0,5.8,Red Wine,100.0,15000
+dist02,Petit Verdot ,2219.37,272.4,Red Wine,8461.666666666666,603568
+dist02,Petite Sirah ,1904.46,2055.5,Red Wine,13220.833333333334,3912720
+dist02,Pinot Noir ,1284.01,277.9,Red Wine,11757.142857142857,355668
+dist02,Primitivo ,900.0,6.0,Red Wine,100.0,5400
+dist02,Sangiovese * ,1543.39,25.2,Red Wine,100.0,38575
+dist02,Souzao ,1250.0,4.8,Red Wine,100.0,5000
+dist02,St Laurent ,2500.0,2.5,Red Wine,100.0,5000
+dist02,Syrah * ,1761.28,477.3,Red Wine,10111.363636363636,839997
+dist02,Tempranillo * ,2057.64,125.3,Red Wine,14036.111111111111,257125
+dist02,Touriga Nacional * ,1740.59,20.2,Red Wine,15050.0,34800
+dist02,Trousseau * ,1800.0,20.9,Red Wine,12200.0,36000
+dist02,Zinfandel ,1551.31,1086.4,Red Wine,8217.391304347826,1684386
+dist02,Other Red  b/ ,2333.33,4.5,Red Wine,100.0,9332
+dist03,Red Globe * ,3000.0,19.7,Table,100.0,57000
+dist03,Albarino ,2531.1,50.2,White Wine,3475.0,126550
+dist03,Chardonnay * ,2414.55,46787.5,White Wine,6693.705679862306,112943818
+dist03,Chenin Blanc ,1770.74,35.2,White Wine,5360.0,61950
+dist03,Fiano ,2409.7,16.5,White Wine,4433.333333333333,38544
+dist03,French Colombard ,1328.13,50.6,White Wine,2800.0,66400
+dist03,Gewurztraminer ,1967.57,86.0,White Wine,1225.0,169162
+dist03,Gray Riesling * ,2505.91,39.4,White Wine,3304.375,97695
+dist03,Grenache Blanc ,3081.96,64.6,White Wine,4890.0,197184
+dist03,Gruner Veltliner ,2700.0,3.4,White Wine,100.0,8100
+dist03,Malvasia Bianca ,2164.75,26.1,White Wine,10450.0,56264
+dist03,Marsanne ,2655.91,44.1,White Wine,4220.0,116820
+dist03,Melon ,2146.0,14.1,White Wine,8950.0,30044
+dist03,Muscat Blanc * ,3110.2,18.5,White Wine,100.0,55980
+dist03,Muscat of Alexandria ,6000.0,1.9,White Wine,100.0,6000
+dist03,Palomino * ,2453.77,7.7,White Wine,11500.0,17171
+dist03,Picpoul Blanc ,2797.83,4.6,White Wine,4375.0,11188
+dist03,Pinot Blanc ,2276.11,160.8,White Wine,4325.0,364160
+dist03,Pinot Gris * ,1907.19,822.0,White Wine,7016.0,1567554
+dist03,Ribolla Gialla * ,2788.34,16.3,White Wine,8025.0,44608
+dist03,Roussanne ,2892.78,69.6,White Wine,4457.142857142857,199548
+dist03,Sauvignon Blanc ,1814.4,10460.9,White Wine,7053.9064327485385,18974440
+dist03,Sauvignon Musque ,1820.39,145.9,White Wine,2514.285714285714,263900
+dist03,Sauvignon Vert * ,2408.75,7.8,White Wine,100.0,16856
+dist03,Semillon ,2498.42,173.7,White Wine,2090.0,432154
+dist03,Tocai Friulano ,2690.83,6.0,White Wine,7000.0,16140
+dist03,Verdejo ,1725.0,3.4,White Wine,100.0,5175
+dist03,Verdelho ,2000.0,1.0,White Wine,100.0,2000
+dist03,Vermentino * ,2376.34,87.5,White Wine,2420.0,206712
+dist03,Vernaccia ,2684.55,24.7,White Wine,100.0,64416
+dist03,Viognier ,2696.31,335.6,White Wine,5178.571428571428,903160
+dist03,White Riesling * ,2293.27,139.5,White Wine,4573.333333333333,318727
+dist03,Other White  b/ ,2741.91,20.4,White Wine,6448.071428571428,54820
+dist03,Aglianico ,3770.49,6.1,Red Wine,100.0,22620
+dist03,Aleatico ,2723.35,16.7,Red Wine,575.0,43568
+dist03,Alicante Bouschet * ,3075.89,88.3,Red Wine,8682.6,270600
+dist03,Barbera ,3260.79,103.7,Red Wine,3464.705882352941,335780
+dist03,Blaufraenkisch * ,2000.0,0.5,Red Wine,17400.0,0
+dist03,Cabernet Franc ,3815.93,831.1,Red Wine,6202.35294117647,3170265
+dist03,Cabernet Sauvignon ,3055.25,27293.4,Red Wine,7807.910364145659,83380115
+dist03,Carignane ,2574.13,304.1,Red Wine,6264.285714285715,782496
+dist03,Charbono ,1500.0,2.0,Red Wine,100.0,3000
+dist03,Cinsaut * ,3074.85,19.2,Red Wine,1787.5,58406
+dist03,Counoise ,2406.56,4.2,Red Wine,100.0,9624
+dist03,Dolcetto ,2747.06,11.9,Red Wine,8400.0,30217
+dist03,Gamay (Napa) * ,2313.75,20.6,Red Wine,7242.857142857143,46260
+dist03,Grenache * ,3203.49,509.4,Red Wine,8936.194029850747,1630327
+dist03,Malbec ,3041.79,707.9,Red Wine,5482.371794871795,2149987
+dist03,Merlot ,2000.21,7891.3,Red Wine,7021.900662251655,15782000
+dist03,Meunier * ,2526.8,181.6,Red Wine,5490.0,457206
+dist03,Montepulciano ,4793.81,9.7,Red Wine,100.0,43137
+dist03,Mourvedre * ,3455.43,104.8,Red Wine,6773.333333333333,359320
+dist03,Nebbiolo ,2306.25,8.0,Red Wine,4280.0,18448
+dist03,Petit Verdot ,3403.84,384.3,Red Wine,5821.774193548387,1306752
+dist03,Petite Sirah ,3159.83,1348.9,Red Wine,5926.92380952381,4258332
+dist03,Pinot Noir ,3944.51,25905.0,Red Wine,8757.332197614991,102169320
+dist03,Primitivo ,2541.6,199.6,Red Wine,2217.6470588235293,505659
+dist03,Refosco * ,3444.0,0.7,Red Wine,13100.0,0
+dist03,Sagrantino ,2960.0,6.0,Red Wine,100.0,17760
+dist03,Sangiovese * ,2576.01,363.9,Red Wine,4947.058823529412,935088
+dist03,St Laurent ,2547.91,17.5,Red Wine,4600.0,43299
+dist03,Syrah * ,2812.1,2208.4,Red Wine,8358.173652694612,6208896
+dist03,Tannat ,4297.96,4.9,Red Wine,14700.0,17188
+dist03,Tempranillo * ,2997.79,13.6,Red Wine,100.0,38961
+dist03,Teroldego ,2600.0,1.0,Red Wine,100.0,2600
+dist03,Tinta Cao ,4729.11,4.2,Red Wine,100.0,18916
+dist03,Touriga Nacional * ,3000.0,4.3,Red Wine,100.0,12000
+dist03,Trousseau * ,2737.26,10.5,Red Wine,6784.0,27370
+dist03,Zinfandel ,3141.9,10595.8,Red Wine,9335.455830388693,33278895
+dist03,Other Red  b/ ,3575.49,204.1,Red Wine,1172.7272727272727,729300
+dist04,Albarino ,4135.17,39.0,White Wine,7614.285714285715,161265
+dist04,Arneis ,2759.61,2.2,White Wine,5500.0,5518
+dist04,Chardonnay * ,3031.48,14042.6,White Wine,6817.878151260505,42561302
+dist04,Chenin Blanc ,3003.18,18.7,White Wine,2028.5714285714287,54054
+dist04,Fiano ,2765.69,2.2,White Wine,100.0,5530
+dist04,Flora ,2310.11,20.8,White Wine,7400.0,46200
+dist04,Gewurztraminer ,2000.0,8.7,White Wine,100.0,16000
+dist04,Grenache Blanc ,2496.47,30.9,White Wine,4666.666666666667,74880
+dist04,Gruner Veltliner ,1800.0,1.7,White Wine,100.0,1800
+dist04,Malvasia Bianca ,2690.91,4.4,White Wine,3766.6666666666665,10760
+dist04,Marsanne ,5200.0,2.4,White Wine,70635.0,10400
+dist04,Muscat Blanc * ,2373.1,53.4,White Wine,4216.666666666667,125769
+dist04,Muscat of Alexandria ,2038.0,4.0,White Wine,100.0,8152
+dist04,Picpoul Blanc ,2000.0,6.6,White Wine,100.0,12000
+dist04,Pinot Blanc ,1929.87,37.5,White Wine,2000.0,71373
+dist04,Pinot Gris * ,1879.17,220.2,White Wine,2300.0,413380
+dist04,Ribolla Gialla * ,3424.76,18.2,White Wine,3800.0,61632
+dist04,Sauvignon Blanc ,2485.34,7153.5,White Wine,4955.428571428572,17775205
+dist04,Sauvignon Gris ,2373.82,2.9,White Wine,100.0,4746
+dist04,Sauvignon Musque ,2461.12,130.1,White Wine,1812.5,319930
+dist04,Sauvignon Vert * ,2739.33,16.4,White Wine,2260.0,43824
+dist04,Semillon ,3089.01,287.9,White Wine,2462.8571428571427,886543
+dist04,Tocai Friulano ,3347.78,7.9,White Wine,2733.3333333333335,23429
+dist04,Verdejo ,2500.0,2.0,White Wine,100.0,5000
+dist04,Vermentino * ,2175.52,34.5,White Wine,3516.6666666666665,73950
+dist04,Viognier ,3780.3,69.7,White Wine,8322.894736842105,260820
+dist04,White Riesling * ,2970.29,132.6,White Wine,100.0,392040
+dist04,Other White  b/ ,2507.96,0.5,White Wine,100.0,0
+dist04,Aleatico ,3200.0,2.4,Red Wine,100.0,6400
+dist04,Barbera ,2424.33,2.1,Red Wine,8500.0,4848
+dist04,Cabernet Franc ,9257.9,1364.9,Red Wine,5282.279792746114,12626548
+dist04,Cabernet Sauvignon ,7942.93,45241.7,Red Wine,7368.685540950455,359304022
+dist04,Carignane ,3388.43,10.1,Red Wine,7666.666666666667,33880
+dist04,Charbono ,3954.56,124.1,Red Wine,100.0,490296
+dist04,Cinsaut * ,5342.71,0.9,Red Wine,100.0,0
+dist04,Counoise ,3000.0,0.6,Red Wine,13800.0,0
+dist04,Dolcetto ,2753.83,2.4,Red Wine,7050.0,5506
+dist04,Gamay (Napa) * ,2848.04,62.2,Red Wine,3520.0,176576
+dist04,Gamay Noir Au Jus Blanc ,2600.0,2.8,Red Wine,100.0,5200
+dist04,Grenache * ,4459.52,155.7,Red Wine,3375.0,691145
+dist04,Lagrein ,4000.0,3.0,Red Wine,100.0,12000
+dist04,Malbec ,6076.43,933.0,Red Wine,5632.696078431372,5668908
+dist04,Merlot ,4047.09,7563.6,Red Wine,6947.354609929078,30607461
+dist04,Meunier * ,2036.03,206.1,Red Wine,4250.0,419416
+dist04,Montepulciano ,2000.0,2.2,Red Wine,100.0,4000
+dist04,Mourvedre * ,4056.68,12.8,Red Wine,7020.0,48672
+dist04,Nebbiolo ,2500.0,0.5,Red Wine,100.0,0
+dist04,Negrette * ,3800.0,0.4,Red Wine,100.0,0
+dist04,Petit Verdot ,7394.07,1158.8,Red Wine,5186.102564102564,8562252
+dist04,Petite Sirah ,4057.47,2045.3,Red Wine,6944.024390243902,8296565
+dist04,Pinot Noir ,2770.82,5340.2,Red Wine,5357.646551724138,14791800
+dist04,Primitivo ,4135.7,20.0,Red Wine,8433.333333333334,82700
+dist04,Refosco * ,3800.0,0.7,Red Wine,100.0,0
+dist04,Sangiovese * ,4495.74,232.2,Red Wine,3572.7272727272725,1042840
+dist04,St Laurent ,2200.0,5.4,Red Wine,100.0,11000
+dist04,Syrah * ,4088.84,1111.2,Red Wine,5331.632653061224,4541768
+dist04,Tannat ,3700.0,5.1,Red Wine,100.0,18500
+dist04,Tempranillo * ,4661.85,66.4,Red Wine,2208.3333333333335,307626
+dist04,Touriga Nacional * ,3703.7,8.1,Red Wine,100.0,29624
+dist04,Zinfandel ,4338.59,2402.1,Red Wine,6183.760683760684,10419876
+dist04,Other Red  b/ ,4990.57,34.9,Red Wine,100.0,169660
+dist05,Albarino ,771.58,201.3,White Wine,2850.0,154971
+dist05,Chardonnay * ,938.75,2575.4,White Wine,5564.285714285715,2415350
+dist05,Chenin Blanc ,445.61,438.7,White Wine,100.0,194910
+dist05,Gewurztraminer ,700.0,237.3,White Wine,10800.0,165900
+dist05,Grenache Blanc ,2748.58,3.5,White Wine,100.0,8244
+dist05,Malvasia Bianca ,1500.0,3.0,White Wine,100.0,4500
+dist05,Muscat Blanc * ,1419.5,49.8,White Wine,100.0,69531
+dist05,Pinot Gris * ,704.18,1808.3,White Wine,7219.833333333333,1272832
+dist05,Sauvignon Blanc ,1081.9,415.7,White Wine,2662.5,448615
+dist05,Symphony ,270.0,134.2,White Wine,100.0,36180
+dist05,Verdejo ,600.0,1.8,White Wine,100.0,600
+dist05,Verdelho ,1136.56,9.3,White Wine,100.0,10224
+dist05,Viognier ,792.39,117.8,White Wine,100.0,92664
+dist05,White Riesling * ,823.31,416.3,White Wine,7722.6,342368
+dist05,Other White  b/ ,1800.0,1.8,White Wine,100.0,1800
+dist05,Barbera ,1528.26,9.2,Red Wine,100.0,13752
+dist05,Cabernet Franc ,1925.0,33.5,Red Wine,100.0,63525
+dist05,Cabernet Sauvignon ,2041.59,1029.9,Red Wine,2720.2380952380954,2100189
+dist05,Carignane ,1709.82,44.8,Red Wine,7333.333333333333,75196
+dist05,Charbono ,1200.0,12.1,Red Wine,100.0,14400
+dist05,Gamay (Napa) * ,1682.61,112.6,Red Wine,100.0,188384
+dist05,Graciano ,1250.0,0.8,Red Wine,100.0,0
+dist05,Grenache * ,1386.17,9.4,Red Wine,100.0,12474
+dist05,Malbec ,1975.74,57.2,Red Wine,875.0,112575
+dist05,Merlot ,1702.71,472.6,Red Wine,1250.0,803344
+dist05,Mourvedre * ,1696.84,15.8,Red Wine,100.0,25440
+dist05,Petit Verdot ,1951.43,165.6,Red Wine,100.0,321915
+dist05,Petite Sirah ,1669.76,960.3,Red Wine,426.3157894736842,1602240
+dist05,Pinot Noir ,892.87,5984.2,Red Wine,7084.523809523809,5337728
+dist05,Primitivo ,1625.0,2.9,Red Wine,100.0,3250
+dist05,Sangiovese * ,1455.87,55.5,Red Wine,2300.0,80025
+dist05,Syrah * ,2026.24,151.2,Red Wine,2075.0,305926
+dist05,Tannat ,1400.0,1.4,Red Wine,100.0,1400
+dist05,Tempranillo * ,1362.71,11.8,Red Wine,100.0,14982
+dist05,Teroldego ,1263.98,46.5,Red Wine,100.0,58098
+dist05,Zinfandel ,1883.52,175.5,Red Wine,3040.0,329525
+dist06,Albarino ,1400.0,0.3,White Wine,100.0,0
+dist06,Chardonnay * ,1019.62,1813.8,White Wine,8524.25925925926,1847447
+dist06,Fiano ,1800.0,7.1,White Wine,100.0,12600
+dist06,Gewurztraminer ,2000.0,0.1,White Wine,14400.0,0
+dist06,Gruner Veltliner ,2000.0,1.9,White Wine,100.0,2000
+dist06,Malvasia Bianca ,1179.62,26.5,White Wine,100.0,30654
+dist06,Muscat Blanc * ,686.34,34.4,White Wine,100.0,23324
+dist06,Palomino * ,2000.0,17.9,White Wine,100.0,34000
+dist06,Pinot Blanc ,1317.52,12.1,White Wine,16200.0,15804
+dist06,Pinot Gris * ,344.47,553.2,White Wine,4677.272727272727,190232
+dist06,Sauvignon Blanc ,837.67,474.9,White Wine,4738.0952380952385,396738
+dist06,Semillon ,1600.0,0.8,White Wine,17000.0,0
+dist06,Verdelho ,1300.0,12.9,White Wine,100.0,15600
+dist06,Viognier ,1537.1,12.4,White Wine,5250.0,18444
+dist06,White Riesling * ,1660.87,6.9,White Wine,3717.5,9960
+dist06,Other White  b/ ,469.06,7.9,White Wine,100.0,3283
+dist06,Alicante Bouschet * ,1113.21,65.5,Red Wine,14300.166666666666,72345
+dist06,Barbera ,1110.53,16.1,Red Wine,3522.222222222222,17760
+dist06,Cabernet Franc ,2484.57,116.1,Red Wine,4726.8,288144
+dist06,Cabernet Sauvignon ,1275.04,2867.2,Red Wine,6258.058823529412,3655425
+dist06,Carignane ,1635.3,414.1,Red Wine,7631.107142857143,676890
+dist06,Cinsaut * ,838.68,9.5,Red Wine,8950.0,7542
+dist06,Counoise ,1700.0,1.0,Red Wine,100.0,1700
+dist06,Dolcetto ,3300.0,5.8,Red Wine,100.0,16500
+dist06,Durif ,1550.0,1.2,Red Wine,100.0,1550
+dist06,Grenache * ,1283.98,392.3,Red Wine,10863.74074074074,502936
+dist06,Malbec ,1839.72,177.7,Red Wine,7126.315789473684,325503
+dist06,Merlot ,1054.19,1466.1,Red Wine,10733.444444444445,1545164
+dist06,Mission ,100.0,0.2,Red Wine,100.0,0
+dist06,Montepulciano ,800.0,1.6,Red Wine,100.0,800
+dist06,Mourvedre * ,1695.82,938.8,Red Wine,6880.677419354839,1589910
+dist06,Nebbiolo ,3168.32,10.1,Red Wine,8025.0,31680
+dist06,Petit Verdot ,823.35,1247.0,Red Wine,8937.0,1026281
+dist06,Petite Sirah ,1155.12,1461.9,Red Wine,8215.363636363636,1687455
+dist06,Pinot Noir ,2668.4,819.4,Red Wine,9132.017543859649,2185092
+dist06,Primitivo ,753.82,30.1,Red Wine,100.0,22590
+dist06,Refosco * ,3400.0,2.4,Red Wine,100.0,6800
+dist06,Sangiovese * ,1826.78,61.9,Red Wine,5533.333333333333,111386
+dist06,Souzao ,1439.29,2.8,Red Wine,100.0,2878
+dist06,Syrah * ,1566.87,275.4,Red Wine,8139.62962962963,430650
+dist06,Tempranillo * ,1445.39,28.2,Red Wine,4092.8571428571427,40460
+dist06,Teroldego ,665.0,317.0,Red Wine,67605.0,210805
+dist06,Tinta Cao ,1378.57,4.2,Red Wine,100.0,5512
+dist06,Touriga Nacional * ,1647.7,8.7,Red Wine,7000.0,13176
+dist06,Zinfandel ,1173.64,2003.1,Red Wine,6421.108695652174,2349519
+dist06,Other Red  b/ ,1024.22,56.6,Red Wine,1983.3333333333333,57344
+dist07,Other Table  b/ ,700.0,0.4,Table,100.0,0
+dist07,Albarino ,1388.3,388.6,White Wine,6975.0,538544
+dist07,Chardonnay * ,1340.62,45243.6,White Wine,8218.970588235294,60625620
+dist07,Chenin Blanc ,1431.75,126.3,White Wine,4737.5,180306
+dist07,Gewurztraminer ,772.74,5267.7,White Wine,8174.375,4066124
+dist07,Grenache Blanc ,1654.79,52.8,White Wine,1887.5,86008
+dist07,Grenache Gris ,350.0,35.2,White Wine,100.0,12250
+dist07,Gruner Veltliner ,1204.62,303.1,White Wine,13620.0,364812
+dist07,Malvasia Bianca ,1254.22,337.5,White Wine,14160.0,422598
+dist07,Marsanne ,1272.25,32.3,White Wine,100.0,40704
+dist07,Melon ,2793.94,9.9,White Wine,3465.0,25137
+dist07,Muscat Blanc * ,1186.33,517.2,White Wine,19025.0,613162
+dist07,Picpoul Blanc ,1003.0,35.0,White Wine,100.0,35105
+dist07,Pinot Blanc ,1258.99,566.2,White Wine,1928.5714285714287,712028
+dist07,Pinot Gris * ,1196.45,6271.6,White Wine,8196.666666666666,7500116
+dist07,Sauvignon Blanc ,1191.29,3940.3,White Wine,5482.35294117647,4692540
+dist07,Sauvignon Musque ,1543.95,40.5,White Wine,3833.3333333333335,61720
+dist07,Semillon ,1675.0,8.1,White Wine,100.0,13400
+dist07,Vermentino * ,1070.55,30.2,White Wine,5700.0,32100
+dist07,Viognier ,1601.06,79.1,White Wine,1977.7777777777778,126479
+dist07,White Riesling * ,812.25,4101.0,White Wine,7305.0,3330012
+dist07,Other White  b/ ,1280.7,24.0,White Wine,100.0,30720
+dist07,Barbera ,1966.15,6.5,Red Wine,100.0,11796
+dist07,Cabernet Franc ,1587.54,286.7,Red Wine,1500.0,453882
+dist07,Cabernet Sauvignon ,1338.25,16110.0,Red Wine,6936.507936507936,21555180
+dist07,Carignane ,1500.0,5.0,Red Wine,100.0,7500
+dist07,Cinsaut * ,839.82,73.7,Red Wine,2316.6666666666665,61247
+dist07,Dolcetto ,500.0,2.0,Red Wine,100.0,1000
+dist07,Dornfelder ,2000.0,7.2,Red Wine,100.0,14000
+dist07,Freisa ,2000.0,1.8,Red Wine,9500.0,2000
+dist07,Gamay (Napa) * ,1022.11,243.3,Red Wine,100.0,248346
+dist07,Grenache * ,1311.51,2480.2,Red Wine,4200.0,3251280
+dist07,Malbec ,1377.09,1776.5,Red Wine,4715.789473684211,2445552
+dist07,Merlot ,981.41,6391.1,Red Wine,2900.0,6269571
+dist07,Montepulciano ,2107.76,5.8,Red Wine,100.0,10535
+dist07,Mourvedre * ,2465.17,72.2,Red Wine,5500.0,177480
+dist07,Nebbiolo ,2400.0,1.1,Red Wine,14550.0,2400
+dist07,Negrette * ,2509.09,4.4,Red Wine,100.0,10036
+dist07,Petit Verdot ,1471.09,222.8,Red Wine,100.0,326562
+dist07,Petite Sirah ,1416.26,1606.3,Red Wine,4321.0526315789475,2274096
+dist07,Pinot Noir ,1880.11,37335.0,Red Wine,7005.388888888889,70189800
+dist07,Primitivo ,1792.78,50.4,Red Wine,100.0,89600
+dist07,Sangiovese * ,1384.49,178.0,Red Wine,7810.0,246352
+dist07,Souzao ,1850.0,22.4,Red Wine,100.0,40700
+dist07,Syrah * ,1283.31,4069.5,Red Wine,5315.0,5220527
+dist07,Tannat ,432.99,144.6,Red Wine,100.0,62208
+dist07,Tempranillo * ,1128.07,65.3,Red Wine,100.0,73320
+dist07,Teroldego ,654.34,48.8,Red Wine,10450.0,31392
+dist07,Trousseau * ,2550.4,5.8,Red Wine,4810.0,12750
+dist07,Zinfandel ,758.69,588.2,Red Wine,1153.8461538461538,445704
+dist07,Other Red  b/ ,2247.22,18.0,Red Wine,100.0,40446
+dist08,Other Table  b/ ,1200.0,2.3,Table,100.0,2400
+dist08,Albarino ,2033.48,185.0,White Wine,5328.125,376105
+dist08,Arneis ,2240.17,10.6,White Wine,7020.0,22400
+dist08,Chardonnay * ,1441.11,16807.3,White Wine,8964.036269430051,24218887
+dist08,Chenin Blanc ,1543.99,291.3,White Wine,6060.526315789473,449013
+dist08,Fiano ,2211.32,5.3,White Wine,100.0,11055
+dist08,Gewurztraminer ,1435.03,17.7,White Wine,100.0,24395
+dist08,Grenache Blanc ,1789.28,582.8,White Wine,5476.322033898305,1041198
+dist08,Grenache Gris ,2350.0,5.9,White Wine,100.0,11750
+dist08,Gruner Veltliner ,2082.69,71.4,White Wine,472.72727272727275,147822
+dist08,Malvasia Bianca ,953.98,84.0,White Wine,3814.285714285714,80052
+dist08,Marsanne ,2106.39,55.2,White Wine,8011.764705882353,115830
+dist08,Melon ,2289.47,30.4,White Wine,100.0,68670
+dist08,Moscato Gaillo * ,1500.0,0.8,White Wine,100.0,0
+dist08,Muscat Blanc * ,1253.08,274.8,White Wine,4445.0,343322
+dist08,Muscat Orange ,1320.7,150.5,White Wine,3044.4444444444443,198000
+dist08,Picpoul Blanc ,2393.78,44.3,White Wine,4562.5,105292
+dist08,Pinot Blanc ,3450.41,61.8,White Wine,2237.5,210450
+dist08,Pinot Gris * ,1007.67,1622.8,White Wine,4970.731707317073,1633354
+dist08,Roussanne ,2417.86,219.3,White Wine,5665.0,529323
+dist08,Sauvignon Blanc ,1427.48,6055.7,White Wine,7627.036144578313,8640485
+dist08,Sauvignon Musque ,2000.0,14.7,White Wine,100.0,28000
+dist08,Semillon ,2050.58,17.1,White Wine,6260.0,34850
+dist08,St. Emilion * ,2766.67,2.7,White Wine,100.0,5532
+dist08,Tocai Friulano ,2392.23,6.8,White Wine,100.0,14352
+dist08,Torrontes ,2200.0,0.5,White Wine,14000.0,0
+dist08,Verdejo ,1600.0,1.2,White Wine,17000.0,1600
+dist08,Verdelho ,1438.78,34.3,White Wine,9600.0,48892
+dist08,Vermentino * ,2072.91,51.4,White Wine,5200.0,105672
+dist08,Viognier ,1369.52,1244.2,White Wine,6067.041237113402,1703036
+dist08,White Riesling * ,1269.84,362.7,White Wine,688.8888888888889,459378
+dist08,Other White  b/ ,1751.56,50.3,White Wine,1138.4615384615386,87550
+dist08,Aglianico ,1848.02,28.0,Red Wine,8588.888888888889,51744
+dist08,Alicante Bouschet * ,1954.81,42.9,Red Wine,100.0,82068
+dist08,Barbera ,1438.72,203.6,Red Wine,5555.555555555556,291914
+dist08,Blaufraenkisch * ,1800.0,7.9,Red Wine,11400.0,12600
+dist08,Cabernet Franc ,2604.52,1753.5,Red Wine,6732.051282051282,4564812
+dist08,Cabernet Sauvignon ,1656.11,61228.3,Red Wine,11092.223880597016,101393568
+dist08,Carignane ,2357.14,85.2,Red Wine,2238.8888888888887,200345
+dist08,Carmenere ,3749.59,10.6,Red Wine,100.0,37490
+dist08,Charbono ,1600.0,12.5,Red Wine,100.0,19200
+dist08,Cinsaut * ,2241.82,109.0,Red Wine,4631.25,244269
+dist08,Counoise ,2300.92,73.6,Red Wine,2260.0,167900
+dist08,Dolcetto ,1262.92,26.7,Red Wine,3475.0,32812
+dist08,Dornfelder ,3800.0,2.7,Red Wine,100.0,7600
+dist08,Freisa ,1000.0,3.1,Red Wine,100.0,3000
+dist08,Gamay (Napa) * ,1114.27,320.5,Red Wine,4776.470588235294,356480
+dist08,Graciano ,3162.07,144.3,Red Wine,5422.222222222223,455328
+dist08,Grenache * ,1959.03,4062.3,Red Wine,8433.14,7957458
+dist08,Lagrein ,1661.26,180.3,Red Wine,5154.545454545455,298980
+dist08,Malbec ,1833.36,1670.8,Red Wine,9591.42857142857,3061110
+dist08,Merlot ,1427.81,7177.5,Red Wine,8734.805825242718,10241579
+dist08,Monastrell ,4016.75,2.0,Red Wine,100.0,8032
+dist08,Montepulciano ,2464.66,11.6,Red Wine,3635.0,27104
+dist08,Mourvedre * ,2635.54,845.2,Red Wine,8335.90909090909,2226575
+dist08,Nebbiolo ,1663.31,184.2,Red Wine,11629.411764705883,305992
+dist08,Negroamaro ,1223.91,66.0,Red Wine,17675.0,80718
+dist08,Nero D'Avola * ,2153.83,18.5,Red Wine,7680.0,38754
+dist08,Petit Verdot ,1744.71,2573.2,Red Wine,7861.95652173913,4487312
+dist08,Petite Sirah ,1633.62,6076.1,Red Wine,10468.795620437957,9922108
+dist08,Pinot Noir ,2765.92,16426.9,Red Wine,7276.368613138686,45417890
+dist08,Primitivo ,851.78,382.4,Red Wine,10480.0,325082
+dist08,Refosco * ,1426.86,39.4,Red Wine,100.0,55614
+dist08,Sangiovese * ,1860.97,503.3,Red Wine,6374.468085106383,935580
+dist08,Souzao ,2378.46,12.7,Red Wine,100.0,28536
+dist08,Syrah * ,2090.39,7191.2,Red Wine,8806.090277777777,15029190
+dist08,Tannat ,1764.96,161.6,Red Wine,8977.272727272728,284004
+dist08,Tempranillo * ,1638.02,798.8,Red Wine,8969.09090909091,1307124
+dist08,Teroldego ,1195.0,50.4,Red Wine,56900.0,59750
+dist08,Tinta Cao ,2082.94,14.6,Red Wine,100.0,29148
+dist08,Tinta Madeira ,725.0,2.4,Red Wine,100.0,1450
+dist08,Touriga Nacional * ,2153.08,58.2,Red Wine,8805.57142857143,124874
+dist08,Trousseau * ,1500.0,3.7,Red Wine,100.0,4500
+dist08,Zinfandel ,1737.28,4177.0,Red Wine,10403.288888888888,7255449
+dist08,Other Red  b/ ,1825.83,34.2,Red Wine,8462.5,62050
+dist09,Albarino ,1369.92,25.6,White Wine,3425.0,34225
+dist09,Chardonnay * ,599.2,13247.9,White Wine,6462.333333333333,7934953
+dist09,Chenin Blanc ,519.49,115.8,White Wine,8701.666666666666,59685
+dist09,Fiano ,1236.96,9.2,White Wine,100.0,11124
+dist09,French Colombard ,1526.09,4.6,White Wine,4600.0,6104
+dist09,Gewurztraminer ,1880.73,10.9,White Wine,100.0,18800
+dist09,Grenache Blanc ,1550.41,22.9,White Wine,4250.0,34100
+dist09,Gruner Veltliner ,1200.0,1.1,White Wine,100.0,1200
+dist09,Malvasia Bianca ,750.0,0.5,White Wine,100.0,0
+dist09,Muscat Blanc * ,1222.14,357.2,White Wine,4600.0,436254
+dist09,Muscat Orange ,355.14,454.0,White Wine,100.0,161170
+dist09,Muscat of Alexandria ,2200.0,3.2,White Wine,100.0,6600
+dist09,Picpoul Blanc ,1750.0,0.3,White Wine,100.0,0
+dist09,Pinot Gris * ,349.14,3870.7,White Wine,8880.0,1350630
+dist09,Roussanne ,1477.2,12.5,White Wine,2750.0,17724
+dist09,Sauvignon Blanc ,585.59,293.9,White Wine,2700.0,171405
+dist09,Sauvignon Musque ,1500.0,0.3,White Wine,100.0,0
+dist09,Semillon ,1400.0,1.3,White Wine,100.0,1400
+dist09,St. Emilion * ,2077.55,4.9,White Wine,100.0,8308
+dist09,Verdelho ,1953.31,180.6,White Wine,100.0,351540
+dist09,Vermentino * ,1700.0,37.7,White Wine,4000.0,62900
+dist09,Viognier ,1567.26,462.4,White Wine,7740.0,723954
+dist09,White Riesling * ,1609.64,8.3,White Wine,100.0,12872
+dist09,Other White  b/ ,1374.43,17.6,White Wine,6262.0,23358
+dist09,Aglianico ,1700.0,8.1,Red Wine,5700.0,13600
+dist09,Alicante Bouschet * ,1400.0,2.2,Red Wine,100.0,2800
+dist09,Barbera ,1665.6,40.7,Red Wine,7916.666666666667,66600
+dist09,Blaufraenkisch * ,1879.31,5.8,Red Wine,100.0,9395
+dist09,Cabernet Franc ,1221.13,7.1,Red Wine,7066.666666666667,8547
+dist09,Cabernet Sauvignon ,721.56,3988.0,Red Wine,8147.35294117647,2875348
+dist09,Carignane ,750.0,0.5,Red Wine,100.0,0
+dist09,Counoise ,1700.0,1.5,Red Wine,5750.0,1700
+dist09,Durif ,1004.76,2.1,Red Wine,21200.0,2008
+dist09,Graciano ,1340.91,6.6,Red Wine,100.0,8040
+dist09,Grenache * ,1581.9,75.4,Red Wine,4545.833333333333,118575
+dist09,Malbec ,691.08,1857.7,Red Wine,9593.214285714286,1283187
+dist09,Merlot ,615.9,1385.3,Red Wine,7462.5,851775
+dist09,Montepulciano ,1427.78,56.0,Red Wine,24300.0,79912
+dist09,Mourvedre * ,1724.31,21.8,Red Wine,3470.0,36204
+dist09,Muscat Hamburg * ,1500.0,0.4,Red Wine,100.0,0
+dist09,Nebbiolo ,1635.42,7.2,Red Wine,100.0,11445
+dist09,Negroamaro ,1319.23,1.3,Red Wine,21250.0,1319
+dist09,Nero D'Avola * ,1400.0,0.5,Red Wine,100.0,0
+dist09,Petit Verdot ,761.08,2748.0,Red Wine,10477.058823529413,2091228
+dist09,Petite Sirah ,781.52,4050.2,Red Wine,6960.333333333333,3163050
+dist09,Pinot Noir ,436.14,1867.3,Red Wine,4570.0,814012
+dist09,Primitivo ,1120.31,3.2,Red Wine,7133.333333333333,3360
+dist09,Ruby Cabernet ,1900.0,0.2,Red Wine,100.0,0
+dist09,Sangiovese * ,1262.05,11.2,Red Wine,12414.285714285714,13882
+dist09,Syrah * ,853.19,1518.5,Red Wine,7619.722222222223,1294854
+dist09,Tannat ,1382.58,486.9,Red Wine,8833.333333333334,671652
+dist09,Tempranillo * ,740.54,310.7,Red Wine,16800.916666666668,229400
+dist09,Teroldego ,811.24,697.8,Red Wine,4240.0,565267
+dist09,Touriga Nacional * ,850.0,2.9,Red Wine,100.0,1700
+dist09,Zinfandel ,777.45,260.7,Red Wine,6657.142857142857,202020
+dist09,Other Red  b/ ,1409.21,1.9,Red Wine,15266.666666666666,1409
+dist10,Other Table  b/ ,1200.0,0.3,Table,100.0,0
+dist10,Albarino ,2093.24,25.9,White Wine,6550.0,52325
+dist10,Arneis ,2300.0,1.4,White Wine,11100.0,2300
+dist10,Chardonnay * ,1416.25,525.5,White Wine,7179.310344827586,743400
+dist10,Chenin Blanc ,1830.3,19.8,White Wine,2416.6666666666665,34770
+dist10,Fiano ,1792.31,5.2,White Wine,11360.0,8960
+dist10,Grenache Blanc ,2034.38,44.8,White Wine,3766.6666666666665,89496
+dist10,Marsanne ,2074.01,39.6,White Wine,2262.5,80886
+dist10,Moscato Gaillo * ,1800.0,3.2,White Wine,100.0,5400
+dist10,Muscat Blanc * ,1398.88,17.9,White Wine,6360.0,23766
+dist10,Muscat Orange ,1219.61,46.4,White Wine,5940.0,56074
+dist10,Muscat of Alexandria ,1721.62,7.4,White Wine,6000.0,12047
+dist10,Picpoul Blanc ,2100.0,19.3,White Wine,5002.857142857143,39900
+dist10,Pinot Blanc ,1500.0,1.0,White Wine,17400.0,1500
+dist10,Pinot Gris * ,1277.94,45.1,White Wine,4042.8571428571427,57465
+dist10,Roussanne ,1960.25,50.8,White Wine,6818.222222222223,98000
+dist10,Sauvignon Blanc ,1061.41,458.1,White Wine,6910.526315789473,485938
+dist10,Semillon ,1353.04,30.6,White Wine,9890.0,40590
+dist10,Tocai Friulano ,1900.0,4.4,White Wine,100.0,7600
+dist10,Verdejo ,1406.47,13.9,White Wine,11433.333333333334,18278
+dist10,Verdelho ,1593.37,13.0,White Wine,5475.0,20709
+dist10,Vermentino * ,1837.85,53.6,White Wine,5569.2307692307695,97361
+dist10,Viognier ,1728.74,172.7,White Wine,5765.625,297216
+dist10,White Riesling * ,1673.86,11.7,White Wine,100.0,18403
+dist10,Other White  b/ ,2184.04,18.8,White Wine,6310.0,39312
+dist10,Aglianico ,1880.89,6.7,Red Wine,100.0,11280
+dist10,Alicante Bouschet * ,1466.63,26.1,Red Wine,11242.857142857143,38116
+dist10,Barbera ,1629.45,709.0,Red Wine,11283.5,1154961
+dist10,Cabernet Franc ,1706.16,346.1,Red Wine,8327.777777777777,590276
+dist10,Cabernet Sauvignon ,1502.45,2664.9,Red Wine,10770.108695652174,4001328
+dist10,Carignane ,1762.5,16.4,Red Wine,5385.714285714285,28192
+dist10,Charbono ,1754.5,10.0,Red Wine,100.0,17540
+dist10,Cinsaut * ,1812.56,30.5,Red Wine,4240.0,54360
+dist10,Counoise ,2338.46,9.1,Red Wine,2800.0,21042
+dist10,Dolcetto ,1530.57,22.9,Red Wine,12241.666666666666,33660
+dist10,Gamay (Napa) * ,2300.0,18.7,Red Wine,7666.666666666667,41400
+dist10,Gamay Noir Au Jus Blanc ,2541.48,35.2,Red Wine,6225.0,88935
+dist10,Graciano ,2103.7,8.1,Red Wine,3583.3333333333335,16824
+dist10,Grenache * ,1882.63,311.4,Red Wine,9675.0,585302
+dist10,Lagrein ,2180.0,6.5,Red Wine,11480.0,13080
+dist10,Malbec ,1700.48,135.5,Red Wine,5031.818181818182,229500
+dist10,Merlot ,1764.37,637.7,Red Wine,7084.615384615385,1123668
+dist10,Mission ,2402.25,8.7,Red Wine,5940.0,19216
+dist10,Montepulciano ,1311.76,3.4,Red Wine,4566.666666666667,3933
+dist10,Mourvedre * ,1919.22,207.2,Red Wine,7681.818181818182,397233
+dist10,Muscat Hamburg * ,1336.36,2.2,Red Wine,100.0,2672
+dist10,Nebbiolo ,2175.55,22.7,Red Wine,1228.5714285714287,47850
+dist10,Negroamaro ,2400.0,2.4,Red Wine,100.0,4800
+dist10,Nero D'Avola * ,1525.0,1.2,Red Wine,5866.666666666667,1525
+dist10,Petit Verdot ,1646.41,197.0,Red Wine,8125.0,324262
+dist10,Petite Sirah ,1640.72,562.7,Red Wine,9584.895833333334,921680
+dist10,Pinot Noir ,1919.52,46.1,Red Wine,3837.5,88274
+dist10,Primitivo ,1647.27,151.9,Red Wine,8851.08695652174,248697
+dist10,Sagrantino ,1857.14,2.8,Red Wine,14650.0,3714
+dist10,Sangiovese * ,1535.63,233.6,Red Wine,11246.153846153846,357655
+dist10,Souzao ,1500.0,4.0,Red Wine,100.0,6000
+dist10,Syrah * ,1684.13,824.9,Red Wine,11695.716666666667,1387616
+dist10,Tannat ,1720.34,5.9,Red Wine,4940.0,8600
+dist10,Tempranillo * ,1769.73,188.2,Red Wine,7216.071428571428,332572
+dist10,Teroldego ,1487.5,1.6,Red Wine,20950.0,1487
+dist10,Tinta Cao ,1600.0,9.1,Red Wine,100.0,14400
+dist10,Touriga Nacional * ,1513.08,21.4,Red Wine,4857.142857142857,31773
+dist10,Trousseau * ,2100.0,4.0,Red Wine,100.0,8400
+dist10,Zinfandel ,1613.96,3010.9,Red Wine,10469.342465753425,4855130
+dist10,Other Red  b/ ,1767.17,9.9,Red Wine,5533.333333333333,15903
+dist11,Albarino ,775.72,755.8,White Wine,7841.25,585125
+dist11,Arneis ,2000.0,7.4,White Wine,100.0,14000
+dist11,Burger * ,274.16,2645.6,White Wine,1800.0,724730
+dist11,Chardonnay * ,515.87,119026.1,White Wine,19998.166666666668,61298390
+dist11,Chenin Blanc ,417.81,1995.0,White Wine,6597.777777777777,831915
+dist11,Fiano ,1080.0,8.1,White Wine,100.0,8640
+dist11,French Colombard ,306.07,3040.7,White Wine,3700.0,930240
+dist11,Gewurztraminer ,583.87,125.2,White Wine,100.0,72875
+dist11,Gray Riesling * ,600.0,30.0,White Wine,100.0,18000
+dist11,Grenache Blanc ,1028.35,57.5,White Wine,10880.0,58596
+dist11,Malvasia Bianca ,403.36,1099.6,White Wine,19217.5,442897
+dist11,Muscat Blanc * ,239.79,2969.5,White Wine,10228.125,709591
+dist11,Muscat Orange ,506.71,606.0,White Wine,100.0,306636
+dist11,Muscat of Alexandria ,350.0,24.8,White Wine,100.0,8400
+dist11,Picpoul Blanc ,1750.0,1.1,White Wine,9400.0,1750
+dist11,Pinot Blanc ,1000.0,0.7,White Wine,100.0,0
+dist11,Pinot Gris * ,503.0,68472.0,White Wine,14264.478260869566,34441416
+dist11,Roussanne ,919.7,39.6,White Wine,100.0,35841
+dist11,Sauvignon Blanc ,508.59,21537.4,White Wine,13716.576923076924,10940796
+dist11,Semillon ,316.97,1091.1,White Wine,100.0,344756
+dist11,Symphony ,279.72,1899.5,White Wine,3942.8571428571427,529821
+dist11,Tocai Friulano ,450.0,2.2,White Wine,100.0,900
+dist11,Torrontes ,1466.83,19.9,White Wine,2975.0,27854
+dist11,Verdejo ,1630.53,19.0,White Wine,3766.6666666666665,30970
+dist11,Verdelho ,538.54,2734.6,White Wine,1770.0,1470892
+dist11,Vermentino * ,558.38,764.6,White Wine,7914.285714285715,426312
+dist11,Vernaccia ,2300.0,6.4,White Wine,100.0,13800
+dist11,Viognier ,457.68,7763.2,White Wine,25318.935483870966,3547691
+dist11,White Riesling * ,487.62,2570.9,White Wine,14391.625,1251590
+dist11,Other White  b/ ,402.52,2540.2,White Wine,100.0,1021080
+dist11,Aglianico ,932.56,72.4,Red Wine,100.0,67104
+dist11,Alicante Bouschet * ,437.01,2199.2,Red Wine,24510.35714285714,960963
+dist11,Alvarinho ,1400.0,3.0,Red Wine,100.0,4200
+dist11,Barbera ,683.07,988.2,Red Wine,6653.125,674804
+dist11,Cabernet Dorsa ,150.0,390.0,Red Wine,100.0,58500
+dist11,Cabernet Franc ,540.86,2324.5,Red Wine,18713.46153846154,1254960
+dist11,Cabernet Sauvignon ,605.26,136249.7,Red Wine,23007.745614035088,82430645
+dist11,Carignane ,576.17,1134.3,Red Wine,12260.818181818182,653184
+dist11,Carmenere ,900.0,19.2,Red Wine,52025.0,17100
+dist11,Charbono ,1054.55,12.1,Red Wine,3700.0,12648
+dist11,Ciliegiolo ,1200.0,1.5,Red Wine,100.0,1200
+dist11,Cinsaut * ,1335.14,136.1,Red Wine,4166.666666666667,181560
+dist11,Dolcetto ,840.34,23.8,Red Wine,100.0,19320
+dist11,Dornfelder ,617.0,119.9,Red Wine,67605.0,73423
+dist11,Gamay (Napa) * ,1200.0,2.0,Red Wine,100.0,2400
+dist11,Graciano ,712.42,516.5,Red Wine,19034.75,367392
+dist11,Grenache * ,717.38,825.0,Red Wine,6910.526315789473,591525
+dist11,Malbec ,548.23,16883.1,Red Wine,21055.13888888889,9251884
+dist11,Merlot ,494.66,61293.0,Red Wine,19673.95238095238,30278742
+dist11,Mission ,848.54,30.9,Red Wine,4433.333333333333,25440
+dist11,Monastrell ,1677.87,6.1,Red Wine,100.0,10062
+dist11,Montepulciano ,656.1,41.0,Red Wine,100.0,26896
+dist11,Mourvedre * ,960.68,40.1,Red Wine,5262.5,38400
+dist11,Muscat Hamburg * ,715.67,145.2,Red Wine,100.0,103675
+dist11,Nebbiolo ,1867.58,18.2,Red Wine,5733.333333333333,33606
+dist11,Nero D'Avola * ,748.83,42.6,Red Wine,100.0,31416
+dist11,Petit Verdot ,582.71,10610.4,Red Wine,31707.19512195122,6175020
+dist11,Petite Sirah ,678.82,36809.1,Red Wine,24632.7,24956502
+dist11,Pinot Noir ,564.76,37944.0,Red Wine,29293.77192982456,21400416
+dist11,Pinotage ,1247.79,13.6,Red Wine,100.0,16211
+dist11,Primitivo ,468.96,283.9,Red Wine,100.0,132444
+dist11,Refosco * ,2200.0,3.0,Red Wine,100.0,6600
+dist11,Rubired * ,259.02,2006.8,Red Wine,7616.666666666667,519554
+dist11,Ruby Cabernet ,597.28,253.7,Red Wine,100.0,151041
+dist11,Sagrantino ,1400.0,1.0,Red Wine,100.0,1400
+dist11,Sangiovese * ,615.91,501.6,Red Wine,5610.714285714285,308115
+dist11,Segalin ,150.0,325.0,Red Wine,17200.0,48750
+dist11,Souzao ,808.54,164.5,Red Wine,9160.714285714286,132512
+dist11,Syrah * ,494.13,11877.4,Red Wine,12752.75,5867238
+dist11,Tannat ,563.4,3274.6,Red Wine,4285.714285714285,1843262
+dist11,Tempranillo * ,604.96,1196.2,Red Wine,7300.272727272727,722384
+dist11,Teroldego ,684.84,10493.2,Red Wine,26636.565217391304,7177212
+dist11,Tinta Cao ,666.01,25.3,Red Wine,100.0,16650
+dist11,Touriga Nacional * ,571.99,1920.3,Red Wine,15784.933333333332,1096320
+dist11,Trousseau * ,1150.0,4.6,Red Wine,100.0,4600
+dist11,Zinfandel ,598.41,105306.0,Red Wine,19866.985714285714,62972988
+dist11,Other Red  b/ ,1421.26,60.1,Red Wine,100.0,85260
+dist12,Burger * ,275.0,795.6,White Wine,400.0,218625
+dist12,Chardonnay * ,455.79,23594.2,White Wine,12500.214285714286,10735270
+dist12,Chenin Blanc ,256.22,4513.6,White Wine,25095.0,1155328
+dist12,Malvasia Bianca ,413.85,354.6,White Wine,100.0,146202
+dist12,Muscat Orange ,482.15,997.1,White Wine,100.0,480554
+dist12,Muscat of Alexandria ,308.87,2898.9,White Wine,14166.666666666666,892584
+dist12,Pinot Gris * ,300.55,32911.2,White Wine,11673.190476190477,9873300
+dist12,Sauvignon Blanc ,500.42,5107.0,White Wine,15887.4,2553500
+dist12,Symphony ,277.1,1709.9,White Wine,2700.0,473393
+dist12,Torrontes ,1450.0,0.9,White Wine,100.0,0
+dist12,Verdelho ,1440.0,7.0,White Wine,100.0,10080
+dist12,Viognier ,438.75,1712.3,White Wine,4550.0,749856
+dist12,White Riesling * ,330.32,1359.2,White Wine,16001.666666666666,448470
+dist12,Aglianico ,1119.64,5.6,Red Wine,10550.0,5595
+dist12,Alicante Bouschet * ,1084.33,6.7,Red Wine,100.0,6504
+dist12,Barbera ,1310.47,25.8,Red Wine,7683.333333333333,32750
+dist12,Blaufraenkisch * ,1000.0,1.8,Red Wine,100.0,1000
+dist12,Cabernet Sauvignon ,458.58,49055.2,Red Wine,29003.1,22467190
+dist12,Carignane ,1200.0,3.1,Red Wine,27500.0,3600
+dist12,Ciliegiolo ,1000.0,4.8,Red Wine,14550.0,4000
+dist12,Counoise ,1200.0,9.4,Red Wine,100.0,10800
+dist12,Dornfelder ,151.05,486.4,Red Wine,8650.0,73386
+dist12,Freisa ,1053.33,4.5,Red Wine,7325.0,4212
+dist12,Graciano ,1700.0,5.8,Red Wine,100.0,8500
+dist12,Grenache * ,497.27,941.2,Red Wine,16370.0,467677
+dist12,Malbec ,181.51,4031.8,Red Wine,19000.0,729611
+dist12,Merlot ,446.96,17197.9,Red Wine,31699.714285714286,7669862
+dist12,Mission ,948.72,3.9,Red Wine,13800.0,2844
+dist12,Montepulciano ,637.78,210.8,Red Wine,19090.0,133770
+dist12,Mourvedre * ,1312.5,4.8,Red Wine,20950.0,5248
+dist12,Muscat Hamburg * ,703.36,171.2,Red Wine,100.0,120213
+dist12,Negroamaro ,1000.0,4.9,Red Wine,14550.0,4000
+dist12,Nero D'Avola * ,1080.41,14.8,Red Wine,11883.333333333334,15120
+dist12,Petit Verdot ,561.04,7182.3,Red Wine,27674.0,4029102
+dist12,Petite Sirah ,484.48,12841.3,Red Wine,26563.0,6215044
+dist12,Pinot Noir ,302.76,12486.6,Red Wine,23286.6875,3770772
+dist12,Pinotage ,1200.0,1.0,Red Wine,100.0,1200
+dist12,Primitivo ,1187.5,6.4,Red Wine,27800.0,7122
+dist12,Rubired * ,229.51,3251.5,Red Wine,50402.5,744479
+dist12,Ruby Cabernet ,440.52,884.0,Red Wine,23050.0,388960
+dist12,Sagrantino ,1058.67,7.5,Red Wine,17775.0,7406
+dist12,Sangiovese * ,900.0,1.0,Red Wine,100.0,900
+dist12,Syrah * ,393.29,2383.7,Red Wine,11975.0,936519
+dist12,Tannat ,171.22,1316.9,Red Wine,23690.0,225036
+dist12,Tempranillo * ,539.87,55.3,Red Wine,1350.0,29645
+dist12,Teroldego ,575.08,1065.8,Red Wine,27102.4,612375
+dist12,Touriga Nacional * ,1200.0,4.5,Red Wine,10550.0,4800
+dist12,Zinfandel ,283.61,4556.3,Red Wine,12164.166666666666,1289348
+dist12,Other Red  b/ ,426.16,880.6,Red Wine,14350.0,374880
+dist13,Fiesta ,234.2,11652.5,Raisin,1166.6666666666667,2726568
+dist13,Thompson Seedless ,259.01,19614.1,Raisin,1650.0,5080026
+dist13,Other Raisin  b/ ,240.0,45.8,Raisin,100.0,10800
+dist13,Other Table  b/ ,275.0,5.1,Table,100.0,1375
+dist13,Albarino ,500.11,14.7,White Wine,100.0,7000
+dist13,Burger * ,266.95,20108.1,White Wine,2673.3333333333335,5348728
+dist13,Chardonnay * ,381.86,83431.0,White Wine,12448.285714285714,31787211
+dist13,Chenin Blanc ,294.04,16872.0,White Wine,7541.666666666667,4960368
+dist13,French Colombard ,277.23,245860.3,White Wine,12427.96875,68103220
+dist13,Grenache Blanc ,368.83,307.3,White Wine,1783.75,112976
+dist13,Malvasia Bianca ,710.41,22.1,White Wine,7616.666666666667,15620
+dist13,Marsanne ,1223.34,25.6,White Wine,1447.0,30575
+dist13,Muscat Blanc * ,365.16,6878.8,White Wine,4452.777777777777,2510470
+dist13,Muscat Orange ,410.69,737.0,White Wine,100.0,302170
+dist13,Muscat of Alexandria ,280.51,129224.2,White Wine,7530.0,36182720
+dist13,Palomino * ,245.62,732.8,White Wine,500.0,179340
+dist13,Picpoul Blanc ,1218.75,8.0,White Wine,2345.0,9744
+dist13,Pinot Gris * ,417.12,62030.9,White Wine,8265.0,25866510
+dist13,Roussanne ,1191.55,11.4,White Wine,2345.0,13101
+dist13,Sauvignon Blanc ,518.37,991.9,White Wine,3300.0,513338
+dist13,Symphony ,267.42,10030.1,White Wine,7350.0,2678010
+dist13,Triplett Blanc ,226.49,12745.7,White Wine,4366.666666666667,2880370
+dist13,Verdelho ,1500.0,15.0,White Wine,100.0,22500
+dist13,Viognier ,547.58,86.6,White Wine,7828.571428571428,47042
+dist13,White Riesling * ,800.0,0.8,White Wine,20800.0,0
+dist13,Other White  b/ ,157.31,42.4,White Wine,100.0,6594
+dist13,Aglianico ,750.0,0.8,Red Wine,100.0,0
+dist13,Alicante Bouschet * ,286.19,451.8,Red Wine,17525.714285714286,128986
+dist13,Alvarinho ,750.0,1.5,Red Wine,100.0,750
+dist13,Arinarnoa ,227.24,1923.0,Red Wine,8650.0,436521
+dist13,Barbera ,307.27,28682.6,Red Wine,9821.578947368422,8805374
+dist13,Cabernet Dorsa ,161.89,1277.9,Red Wine,100.0,205597
+dist13,Cabernet Franc ,400.11,44.3,Red Wine,8200.0,17600
+dist13,Cabernet Sauvignon ,364.32,46270.2,Red Wine,18758.52,16842280
+dist13,Carignane ,245.62,3645.3,Red Wine,13510.0,893025
+dist13,Centurian ,334.18,1361.8,Red Wine,31700.0,454574
+dist13,Counoise ,1300.0,3.2,Red Wine,5400.0,3900
+dist13,Gamay (Napa) * ,1106.14,36.8,Red Wine,100.0,39816
+dist13,Grenache * ,335.83,19429.3,Red Wine,8827.5,6508715
+dist13,Malbec ,338.92,1591.5,Red Wine,13283.333333333334,537758
+dist13,Merlot ,330.18,28933.7,Red Wine,23196.458333333332,9547890
+dist13,Mission ,250.0,872.1,Red Wine,100.0,218000
+dist13,Mourvedre * ,723.94,39.1,Red Wine,1447.0,28197
+dist13,Muscat Hamburg * ,475.0,670.9,Red Wine,100.0,318250
+dist13,Nebbiolo ,422.12,72.1,Red Wine,21395.0,30384
+dist13,Nero D'Avola * ,3500.0,1.1,Red Wine,100.0,3500
+dist13,Petit Verdot ,449.13,877.1,Red Wine,8200.0,393773
+dist13,Petite Sirah ,276.56,2301.0,Red Wine,6385.714285714285,635076
+dist13,Pinot Noir ,251.66,10730.8,Red Wine,2662.5,2693230
+dist13,Royalty ,475.0,45.1,Red Wine,100.0,21375
+dist13,Rubired * ,260.77,184609.2,Red Wine,38249.12727272727,47998340
+dist13,Ruby Cabernet ,237.34,16596.9,Red Wine,24093.75,3933252
+dist13,Sangiovese * ,353.73,365.1,Red Wine,11500.0,128845
+dist13,Segalin ,150.0,761.7,Red Wine,100.0,114150
+dist13,Souzao ,150.0,794.4,Red Wine,100.0,119100
+dist13,Syrah * ,340.11,26167.3,Red Wine,21215.652173913044,8896780
+dist13,Tannat ,450.0,550.5,Red Wine,100.0,247500
+dist13,Tempranillo * ,303.34,5840.2,Red Wine,19268.571428571428,1769520
+dist13,Teroldego ,206.46,1545.1,Red Wine,28500.0,318270
+dist13,Tinta Cao ,273.14,560.4,Red Wine,33645.0,152880
+dist13,Touriga Nacional * ,181.81,2311.7,Red Wine,13518.0,418291
+dist13,Zinfandel ,291.1,134507.1,Red Wine,14579.767441860466,39141537
+dist13,Other Red  b/ ,100.13,3775.5,Red Wine,6400.0,377500
+dist14,Fiesta ,350.0,2080.7,Raisin,100.0,728000
+dist14,Thompson Seedless ,193.11,10630.0,Raisin,100.0,2051590
+dist14,Arra ,163.06,3180.5,Table,100.0,518340
+dist14,Autumn King ,160.4,2661.0,Table,100.0,425760
+dist14,Crimson Seedless * ,160.0,64.4,Table,100.0,10240
+dist14,Flame Seedless * ,188.8,5064.2,Table,100.0,952032
+dist14,Ivory Seedless ,350.0,1319.3,Table,100.0,461650
+dist14,Princess * ,160.0,516.6,Table,100.0,82560
+dist14,Pristine ,160.0,29.5,Table,100.0,4640
+dist14,Red Globe * ,162.51,367.4,Table,100.0,59454
+dist14,Ruby Seedless * ,160.0,151.7,Table,100.0,24160
+dist14,Scarlet Royal ,161.74,2477.5,Table,100.0,398797
+dist14,Sugraone * ,160.0,73.6,Table,100.0,11680
+dist14,Summer Royal ,350.0,214.0,Table,100.0,74900
+dist14,Sweet Sunshine ,175.69,3636.7,Table,100.0,636300
+dist14,Other Table  b/ ,333.13,20718.6,Table,100.0,6899094
+dist14,Chardonnay * ,333.68,27239.4,White Wine,12016.666666666666,9070587
+dist14,French Colombard ,256.68,38450.8,White Wine,9100.0,9843200
+dist14,Muscat Blanc * ,159.49,11389.5,White Wine,8650.0,1810851
+dist14,Muscat of Alexandria ,264.97,33251.8,White Wine,5757.142857142857,8778264
+dist14,Pinot Gris * ,167.75,12936.1,White Wine,4550.0,2160312
+dist14,Sauvignon Blanc ,195.02,3490.9,White Wine,100.0,680550
+dist14,Viognier ,1500.0,1.1,White Wine,100.0,1500
+dist14,Other White  b/ ,199.72,4050.0,White Wine,100.0,805950
+dist14,Barbera ,163.18,2314.8,Red Wine,18900.0,377182
+dist14,Cabernet Franc ,1850.0,1.1,Red Wine,100.0,1850
+dist14,Cabernet Sauvignon ,304.55,10525.2,Red Wine,22700.0,3199600
+dist14,Grenache * ,325.0,1244.7,Red Wine,9670.0,404300
+dist14,Malbec ,1600.0,0.9,Red Wine,100.0,0
+dist14,Merlot ,175.09,13921.7,Red Wine,5800.0,2436175
+dist14,Mission ,500.0,2.6,Red Wine,17400.0,1000
+dist14,Petite Sirah ,450.0,163.9,Red Wine,100.0,73350
+dist14,Pinot Noir ,100.0,8150.2,Red Wine,100.0,815000
+dist14,Rubired * ,230.73,45395.3,Red Wine,39306.333333333336,10440850
+dist14,Ruby Cabernet ,254.91,8655.3,Red Wine,13460.0,2198370
+dist14,Syrah * ,195.55,1027.9,Red Wine,23366.666666666668,200265
+dist14,Zinfandel ,209.91,32790.3,Red Wine,8207.142857142857,6853110
+dist14,Other Red  b/ ,116.37,1677.3,Red Wine,100.0,194532
+dist15,Albarino ,1600.0,0.8,White Wine,100.0,0
+dist15,Chardonnay * ,1326.83,4.1,White Wine,100.0,5304
+dist15,Grenache Blanc ,2200.0,3.1,White Wine,2200.0,6600
+dist15,Muscat Blanc * ,1200.0,1.8,White Wine,100.0,1200
+dist15,Muscat of Alexandria ,1600.0,1.0,White Wine,100.0,1600
+dist15,Palomino * ,500.0,10.0,White Wine,100.0,5000
+dist15,Sauvignon Blanc ,1100.0,1.5,White Wine,100.0,1100
+dist15,Viognier ,1956.94,3.2,White Wine,1150.0,5868
+dist15,White Riesling * ,1500.0,2.0,White Wine,100.0,3000
+dist15,Other White  b/ ,545.45,36.3,White Wine,100.0,19620
+dist15,Alicante Bouschet * ,1110.0,5.0,Red Wine,8333.333333333334,5550
+dist15,Barbera ,1157.14,3.5,Red Wine,8650.0,3471
+dist15,Cabernet Franc ,1000.0,3.5,Red Wine,17400.0,3000
+dist15,Cabernet Sauvignon ,1402.66,9.4,Red Wine,5833.333333333333,12618
+dist15,Grenache * ,1264.33,11.9,Red Wine,5040.0,13904
+dist15,Malbec ,1509.82,5.6,Red Wine,4425.0,7545
+dist15,Merlot ,461.7,34.2,Red Wine,100.0,15674
+dist15,Mourvedre * ,1600.0,1.0,Red Wine,100.0,1600
+dist15,Petit Verdot ,1200.0,1.5,Red Wine,100.0,1200
+dist15,Pinot Noir ,2974.75,8.8,Red Wine,800.0,23792
+dist15,Sangiovese * ,1485.71,0.7,Red Wine,10650.0,0
+dist15,Syrah * ,1619.22,13.5,Red Wine,2983.3333333333335,21047
+dist15,Tannat ,1600.0,3.8,Red Wine,100.0,4800
+dist15,Tempranillo * ,1353.33,7.5,Red Wine,9316.666666666666,9471
+dist15,Zinfandel ,673.32,368.1,Red Wine,4266.666666666667,247664
+dist15,Other Red  b/ ,1600.0,0.8,Red Wine,100.0,0
+dist16,Other Table  b/ ,500.0,5.0,Table,100.0,2500
+dist16,Albarino ,1966.89,40.6,White Wine,1475.0,78640
+dist16,Arneis ,2278.17,30.9,White Wine,9466.666666666666,68340
+dist16,Chardonnay * ,1876.16,93.0,White Wine,6464.285714285715,174468
+dist16,Chenin Blanc ,1693.33,4.5,White Wine,100.0,6772
+dist16,Fiano ,2135.48,3.1,White Wine,100.0,6405
+dist16,Grenache Blanc ,2059.63,16.1,White Wine,100.0,32944
+dist16,Malvasia Bianca ,967.0,7.2,White Wine,13400.0,6769
+dist16,Marsanne ,1442.86,3.5,White Wine,100.0,4326
+dist16,Muscat Blanc * ,1884.79,119.3,White Wine,4091.6666666666665,224196
+dist16,Muscat Orange ,1700.0,0.1,White Wine,13100.0,0
+dist16,Palomino * ,500.0,19.0,White Wine,100.0,9500
+dist16,Pecorino ,2300.0,17.0,White Wine,100.0,39100
+dist16,Picpoul Blanc ,2200.0,1.5,White Wine,100.0,2200
+dist16,Pinot Gris * ,1986.2,56.3,White Wine,6012.5,111216
+dist16,Roussanne ,1646.06,49.9,White Wine,3150.0,80654
+dist16,Sauvignon Blanc ,1807.92,48.8,White Wine,8460.0,86736
+dist16,Semillon ,1600.0,0.4,White Wine,100.0,0
+dist16,Verdelho ,2100.0,7.1,White Wine,100.0,14700
+dist16,Vermentino * ,2122.77,83.7,White Wine,1933.3333333333333,176126
+dist16,Viognier ,1620.0,54.9,White Wine,6733.333333333333,87480
+dist16,White Riesling * ,1753.62,21.3,White Wine,2125.0,36813
+dist16,Other White  b/ ,2205.56,9.0,White Wine,100.0,19845
+dist16,Aglianico ,2495.15,18.7,Red Wine,11700.0,44910
+dist16,Aleatico ,2104.26,4.7,Red Wine,8950.0,8416
+dist16,Alicante Bouschet * ,1114.89,18.8,Red Wine,100.0,20052
+dist16,Barbera ,2143.57,63.7,Red Wine,7353.846153846154,135009
+dist16,Cabernet Franc ,1750.36,131.3,Red Wine,11056.521739130434,229250
+dist16,Cabernet Sauvignon ,1812.7,365.5,Red Wine,8343.589743589744,661380
+dist16,Carignane ,1472.85,49.4,Red Wine,9450.0,72128
+dist16,Carmenere ,1588.24,1.7,Red Wine,10550.0,1588
+dist16,Cinsaut * ,1733.42,49.8,Red Wine,1425.0,84917
+dist16,Counoise ,1400.0,2.0,Red Wine,10700.0,2800
+dist16,Grenache * ,1434.98,128.2,Red Wine,6905.555555555556,183552
+dist16,Malbec ,1799.79,66.8,Red Wine,3447.0588235294117,118734
+dist16,Merlot ,1814.37,184.2,Red Wine,10125.806451612903,333776
+dist16,Mission ,528.43,29.9,Red Wine,8950.0,15312
+dist16,Monastrell ,2100.0,1.1,Red Wine,100.0,2100
+dist16,Montepulciano ,2452.06,100.7,Red Wine,3583.3333333333335,245200
+dist16,Mourvedre * ,1890.88,40.9,Red Wine,8125.0,75600
+dist16,Nebbiolo ,1851.72,11.6,Red Wine,2125.0,20361
+dist16,Negroamaro ,1140.0,5.7,Red Wine,13400.0,5700
+dist16,Petit Verdot ,1785.54,23.3,Red Wine,8257.142857142857,41055
+dist16,Petite Sirah ,1990.6,188.6,Red Wine,7765.384615384615,374120
+dist16,Pinot Noir ,1794.44,7.2,Red Wine,8650.0,12558
+dist16,Primitivo ,1483.88,14.7,Red Wine,15566.666666666666,20762
+dist16,Ruby Cabernet ,1800.0,1.7,Red Wine,100.0,1800
+dist16,Sagrantino ,2237.94,16.1,Red Wine,8650.0,35792
+dist16,Sangiovese * ,2100.98,175.3,Red Wine,6070.555555555556,367500
+dist16,Syrah * ,1768.92,214.0,Red Wine,9580.555555555555,378352
+dist16,Tannat ,725.29,3.3,Red Wine,8950.0,2175
+dist16,Tempranillo * ,1978.15,97.2,Red Wine,5509.523809523809,191866
+dist16,Zinfandel ,1920.35,142.1,Red Wine,7887.5,272640
+dist17,Albarino ,675.35,1401.7,White Wine,14515.714285714286,945675
+dist17,Chardonnay * ,600.14,44472.3,White Wine,20777.0,26683200
+dist17,Chenin Blanc ,451.51,8692.5,White Wine,5564.0,3920092
+dist17,Cortese ,607.86,60.3,White Wine,2700.0,36420
+dist17,Fiano ,1060.0,5.5,White Wine,100.0,5300
+dist17,Gewurztraminer ,597.52,5504.3,White Wine,16778.2,3285888
+dist17,Gruner Veltliner ,581.42,78.0,White Wine,21325.0,45318
+dist17,Muscat Blanc * ,607.95,396.1,White Wine,100.0,240372
+dist17,Muscat of Alexandria ,891.48,90.4,White Wine,20700.0,80190
+dist17,Pinot Gris * ,589.91,18784.1,White Wine,19869.1,11063776
+dist17,Sauvignon Blanc ,546.78,11177.7,White Wine,17286.322580645163,6102642
+dist17,Semillon ,297.14,525.1,White Wine,100.0,155925
+dist17,Symphony ,267.82,147.4,White Wine,850.0,39249
+dist17,Verdejo ,1428.57,7.0,White Wine,100.0,9996
+dist17,Verdelho ,580.96,183.9,White Wine,21400.0,106140
+dist17,Viognier ,584.88,2445.3,White Wine,31368.333333333332,1427880
+dist17,White Riesling * ,606.73,4886.9,White Wine,14087.25,2960916
+dist17,Other White  b/ ,484.4,70.4,White Wine,100.0,33880
+dist17,Aglianico ,1498.44,4.8,Red Wine,100.0,5992
+dist17,Barbera ,1202.6,19.2,Red Wine,4216.666666666667,22838
+dist17,Cabernet Franc ,878.89,120.1,Red Wine,6370.0,105360
+dist17,Cabernet Sauvignon ,872.81,1607.1,Red Wine,5343.75,1401304
+dist17,Carignane ,600.0,0.5,Red Wine,100.0,0
+dist17,Gamay (Napa) * ,510.6,132.1,Red Wine,100.0,67320
+dist17,Graciano ,600.0,0.5,Red Wine,100.0,0
+dist17,Grenache * ,1207.35,22.8,Red Wine,3557.1428571428573,26554
+dist17,Malbec ,754.32,99.5,Red Wine,5787.5,74646
+dist17,Merlot ,603.59,4588.3,Red Wine,15831.3125,2766564
+dist17,Mourvedre * ,1420.21,7.3,Red Wine,8460.0,9940
+dist17,Nebbiolo ,1545.89,7.3,Red Wine,5933.333333333333,10815
+dist17,Nero D'Avola * ,1400.0,1.4,Red Wine,100.0,1400
+dist17,Petit Verdot ,1211.95,11.3,Red Wine,8520.0,13321
+dist17,Petite Sirah ,733.87,8159.3,Red Wine,21889.153846153848,5980547
+dist17,Pinot Noir ,714.93,22665.5,Red Wine,19703.14285714286,16182810
+dist17,Primitivo ,1230.77,11.7,Red Wine,100.0,13530
+dist17,Tannat ,1044.32,68.9,Red Wine,7855.555555555556,70992
+dist17,Tempranillo * ,997.72,195.7,Red Wine,9178.57142857143,194415
+dist17,Teroldego ,716.57,1054.9,Red Wine,12888.125,754664
+dist17,Zinfandel ,249.57,2502.6,Red Wine,3400.0,622998
+dist17,Other Red  b/ ,500.0,53.5,Red Wine,100.0,26500
