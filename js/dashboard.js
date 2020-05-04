@@ -398,7 +398,7 @@ function buildGraph(id, shape, geo, features, label, filter="", districtValue="a
                     .attr("height", y.bandwidth())
                     .on('mouseover', function(d) {
                         d3.select('#tooltip').transition().duration(200).style('opacity', 1);
-                        d3.select('#tooltip').html("<p>"+d.variety+"</p><p>Ave Base All Districts: $"+d3.format("$,.0f")(d.aveBaseAll)+"</p>");
+                        d3.select('#tooltip').html("<p>"+d.variety+"</p><p>Ave Base All Districts: "+d3.format("$,.0f")(d.aveBaseAll)+"</p>");
                         })
                     .on('mouseout', function() {
                         d3.select('#tooltip').style('opacity', 0)
